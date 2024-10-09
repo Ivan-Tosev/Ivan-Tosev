@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ivan-Tosev
 - 👀 I’m interested in AI and embedded systems
 - 🌱 I’m currently working on:
-              machine learning project for trend prediction
-              Swift and SwiftUI mobile and macos App
-              Robotic arm  project (electronics, Mechanical design and software)
+1. machine learning project for trend prediction
+2. Swift and SwiftUI mobile and macos App
+3. Robotic arm  project (electronics design, Mechanical design and software)
               
 
 <!---
